@@ -8,4 +8,4 @@ Instacart is an American company that operates online grocery delivery and pick-
 
 OFFLINE DATASET 
 
-Food Mart is a chain of convenience stores in the United States. The private company's headquarters are located in Mentor, Ohio, and there are currently approximately 325 stores located in the US.
+FoodMart is a chain of convenience stores in the United States. The private company's headquarters are located in Mentor, Ohio, and there are currently approximately 325 stores located in the US.
